@@ -1,6 +1,6 @@
 # PPO CartPole Implementation
 
-A minimal and clean Proximal Policy Optimization (PPO) implementation in PyTorch for the CartPole-v1 environment, designed for academic demonstrations and research.
+A Proximal Policy Optimization (PPO) implementation in PyTorch for the CartPole-v1 environment.
 
 ## Features
 
